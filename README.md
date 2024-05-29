@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+this project is the client to the Songs-server
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
