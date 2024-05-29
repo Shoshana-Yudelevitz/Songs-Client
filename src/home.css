@@ -1,0 +1,20 @@
+body{
+    background-image: url("bbb.jpg");
+    width: 120px;
+    height: 100px;
+}
+button{
+    border-color: aqua;
+    margin-left: 480%;
+    background-color: black;
+    border-radius: 40px;
+    width: 450px;
+    height: 250px;
+    margin-top: 50px;
+    text-align: center;
+    border-width: 10px;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+
+}
